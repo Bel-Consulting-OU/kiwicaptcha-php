@@ -423,3 +423,4 @@ application must not add any.
 ## License
 
 MIT, see the [license file](LICENSE). Copyright (c) 2026 Bel Consulting OÜ.
+# packagist hook check
